@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+#start, #objects,#status{
+    font-size: 18px;
+    margin-top: 10px;
+}
+#footer{
+position:fixed;
+color: white;
+background-color: grey;
+bottom:0;
+width:100%;
+line-height:2;
+text-align: center;
+}
+canvas{
+    border-radius: 10px;
+    border:2px solid pink;
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px white ;
+}
+#title{
+font: size 25px;
+color:white;
+text-align: center;
+}
+#info{
+font-size: 15px;
+color:black;
+text-align: center;
+}
+#input{
+color:black;
+}
